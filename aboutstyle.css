@@ -376,6 +376,9 @@ nav a:hover {
 }
 
 @media (max-width:500px) {
+    body {
+        overflow-x: hidden;
+    }
 .logo h1 {
     margin-left: 65px;
     font-size: 1.7rem;
@@ -451,6 +454,9 @@ li{
     font-weight: 200;
   font-size: 0.8rem;
 }
+.social .whatsapp {
+    padding-left:10px;
+}
 }
 
 @media(min-width:321px) and (max-width:360px) {
@@ -484,6 +490,10 @@ li{
         margin-top: 25px;
         margin-left: 110px;
     }
+    .social .whatsapp {
+        padding-top: 30px;
+        padding-left:20px;
+    }
 }
 
 @media(min-width:361px) and (max-width:375px) {
@@ -515,6 +525,9 @@ li{
     .btn {
         margin-top: 25px;
         margin-left: 110px;
+    }
+    .social .whatsapp {
+        padding-left:20px;
     }
 }
 @media (width:320px) {
@@ -572,5 +585,9 @@ li{
     }
     .rights .sub  {
         font-size:10px;
+    }
+    .social .whatsapp {
+        padding-top: 30px;
+        padding-left:20px;
     }
 }
