@@ -126,48 +126,6 @@ nav a:hover {
     color:#000;
     
 }
-/*.us {
-    background-color: #fff;
-    margin-top: 20px;
-    text-align: center;
-}
-.about {
-    background: #fff;
-    margin-top: 20px;
-    margin-right:30px;
-    margin-left: 30px;
-    display: grid;
-    grid-template-columns: repeat(2,1fr);
-}
-.write1 {
-    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
-    border-radius: 10px;
-    padding:15px;
-    width:80%;
-    height:220px;
-}
-.write1 h4 {
-    font-weight: 300;
-    font-size: 1.6rem;
-    line-height: 1.5em;
-    font-family: 'Lato';
-    color:#333;
-}
-.write2 {
-    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
-    border-radius: 10px;
-    padding:15px;
-    width:80%;
-    height:220px;
-    
-}
-.write2 h4 {
-    font-weight: 300;
-    font-size: 1.6rem;
-    line-height: 1.5em;
-    font-family: 'Lato';
-    color:#333;
-}*/
 @keyframes SlideInFromLeft {
     0% {
         transform:translateX(-200%)
