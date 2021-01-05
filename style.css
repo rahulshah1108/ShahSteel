@@ -317,18 +317,17 @@ nav a:hover {
     }
     .text2 {
         position: absolute;
-        top: 50%;
+        top: 47%;
         left: 35%;
         transform: translate(-50%, -50%);
         color:beige;
         line-height: 1.6em;
-        font-size: 1.6rem;
-        font-family: serif;
+        font-size: 1.4rem;
         animation: SlideInFromLeft1 1s ease-in;
     }
     .btn {
         position: absolute;
-        top: 80%;
+        top: 77%;
         left: 23%;
         transform: translate(-50%, -50%);
         color:beige;
@@ -352,7 +351,7 @@ nav a:hover {
         }
         .text2 {
             position: absolute;
-            top: 52%;
+            top: 51%;
             left: 35%;
             transform: translate(-50%, -50%);
             color:beige;

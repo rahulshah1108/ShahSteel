@@ -233,6 +233,9 @@ nav a:hover {
     }  
 }
 @media (max-width:500px) {
+    #products {
+        overflow-x: hidden;
+    }
     .logo h1 {
         margin-left: 75px;
         font-size: 1.7rem;

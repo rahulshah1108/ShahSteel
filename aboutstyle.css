@@ -376,7 +376,7 @@ nav a:hover {
 }
 
 @media (max-width:500px) {
-    body {
+    #about-us {
         overflow-x: hidden;
     }
     .logo h1 {
