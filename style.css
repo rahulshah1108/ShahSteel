@@ -27,8 +27,8 @@ body{
 }
 .logo h1 {
     font-family: 'Roboto', sans-serif;
-    font-weight: 400;
-    color:#43464b;
+    font-weight: 600;
+    color:#022d57;
     font-size:2.3rem;
     word-spacing: 0.3em;
 }
@@ -227,7 +227,7 @@ nav a:hover {
         overflow: hidden;
     }
     .logo h1 {
-        margin-left: 65px;
+        margin-left: 75px;
         font-size: 1.7rem;
         margin-top:-10px;
     }
@@ -359,6 +359,7 @@ nav a:hover {
             font-family: serif;
             animation: SlideInFromLeft1 1s ease-in;
         }
+        
         .btn {
             position: absolute;
             top: 80%;
